@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.parent{
+    background-color: rgb(244, 19, 26);
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.child1{
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+}
+.top1{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middle1{   
+    font-weight: 700;
+    margin: 5px;
+}
+.last1{
+    display: flex;
+    justify-content: space-between;
+    margin:5px;
+}
+.fa-star{
+    color: green;
+}
+.text-dec{
+    text-decoration: none;
+}
+.child2{
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+}
+.top2{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middle2{   
+    font-weight: 700;
+    margin: 5px;
+}
+.last2{
+    display: flex;
+    justify-content: space-between;
+    margin:5px;
+}
+.child3{
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+}
+.top3{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middle3{   
+    font-weight: 700;
+    margin: 5px;
+}
+.last3{
+    display: flex;
+    justify-content: space-between;
+    margin:5px;
+}
+.child4{
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+}
+.top4{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middle4{   
+    font-weight: 700;
+    margin: 5px;
+}
+.last4{
+    display: flex;
+    justify-content: space-between;
+    margin:5px;
+}
+.child5{
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+}
+.top5{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middle5{   
+    font-weight: 700;
+    margin: 5px;
+}
+.last5{
+    display: flex;
+    justify-content: space-between;
+    margin:5px;
+}
+.child6{
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+}
+.top6{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middle6{   
+    font-weight: 700;
+    margin: 5px;
+}
+.last6{
+    display: flex;
+    justify-content: space-between;
+    margin:5px;
+}
